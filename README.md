@@ -3,7 +3,7 @@
 
 ## tarefas
 
- - [ ] Header
+ - [X] Header
  - [ ] Apresentação
  - [ ] Projetos
  - [ ] Conhecimentos
