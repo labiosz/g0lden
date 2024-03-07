@@ -10,6 +10,7 @@ h1 {
     font-weight: 800;
     font-size: 72px;
     color: #2EC4B6;
+    text-align: center;
 }
 
 h2 {
@@ -32,6 +33,23 @@ h4 {
     font-size: 48px;
     color: #2EC4B6;
 }
+
+h5 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-size: 48px;
+    color: #2EC4B6;
+}
+
+h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    color: #2EC4B6;
+}
+
+
 body {
     background-color: #F9DEC9;
     font-family: 'Lexend Deca', sans-serif;
@@ -46,7 +64,7 @@ p {
 }
 
 ol {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Verdana, Geneva, Tahoma, sans-serif';
     font-weight: 400;
     font-size: 24px;
     color: #2EC4B6;
@@ -77,3 +95,39 @@ ul {
      width: 45%;
      border-radius: 20px;
  }
+.text {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 150;
+    font-size: 24px;
+    color: #5B5F97;
+    margin: 20px;
+
+}
+
+.nameProfile{
+    text-align: center;
+}
+
+.links{
+    margin-top: 20px;
+}
+
+.link{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    color: #5B5F97;
+}
+
+.link:hover{
+    color: aliceblue;
+}
+
+.imagenProfile{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+}
