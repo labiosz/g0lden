@@ -84,6 +84,13 @@ ul {
     margin: 20px;
 }
 
+.columnL {
+    float: left;
+    width: 40%;
+    padding: 0px;
+    margin: 20px;
+}
+
 .coluna {
     display: flex;
     justify-content: space-around;
