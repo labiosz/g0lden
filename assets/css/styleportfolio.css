@@ -1,10 +1,13 @@
-.redondo {
+img {
+    width: 45%;
+    border-radius: 100px;
+}
+
+column {
     float: left;
     width: 40%;
     padding: 0px;
     margin: 20px;
-    border-radius: 20px;
-    height: 30%;
 }
 
 body {
@@ -17,5 +20,12 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 400;
     font-size: 24px;
+    color: #D6C3C9;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 36px;
     color: #D6C3C9;
 }
