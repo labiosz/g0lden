@@ -1,0 +1,21 @@
+.redondo {
+    float: left;
+    width: 40%;
+    padding: 0px;
+    margin: 20px;
+    border-radius: 20px;
+    height: 30%;
+}
+
+body {
+    background-color: #07090F;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #3A405A;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #D6C3C9;
+}
